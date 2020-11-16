@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "id": "leatherite",
+  "version": "${version}",
+
+  "name": "Leatherite",
+  "description": "Infused Netherite",
+  "authors": [
+    "Steven Tracey"
+  ],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/nevetS-718/Leatherite"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/leatherite/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.leatherite.Leatherite"
+    ]
+  },
+  "mixins": [
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.7.4",
+    "fabric": "*",
+    "minecraft": "1.16.x"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}

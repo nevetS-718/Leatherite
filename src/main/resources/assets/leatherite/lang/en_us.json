@@ -1,0 +1,21 @@
+{
+    "item.leatherite.leatherite_hide": "Leatherite Hide",
+    "block.leatherite.gold_infused_netherite_block": "Gold Infused Netherite Block",
+    "item.leatherite.raw_villager_meat": "Raw Villager Meat",
+    "item.leatherite.cooked_villager_meat": "Cooked Villager Meat",
+    "item.leatherite.emerald_pickaxe": "Emerald Pickaxe",
+    "item.leatherite.emerald_axe": "Emerald Axe",
+    "item.leatherite.emerald_shovel": "Emerald Shovel",
+    "item.leatherite.emerald_hoe": "Emerald Hoe",
+    "item.leatherite.emerald_sword": "Emerald Sword",
+    "item.leatherite.emerald_helmet": "Emerald Helmet",
+    "item.leatherite.emerald_chestplate": "Emerald Chestplate",
+    "item.leatherite.emerald_leggings": "Emerald Leggings",
+    "item.leatherite.emerald_boots": "Emerald Boots",
+    "itemGroup.leatherite.all": "All",
+    "item.leatherite.tobacco": "Tobacco",
+    "item.leatherite.dried_tobacco": "Dried Tobacco",
+    "item.leatherite.tobacco_seeds": "Tobacco Seeds",
+    "item.leatherite.bottle_of_alcohol": "Bottle of Alcohol",
+    "effect.leatherite.drunkeness": "Drunkeness"
+}
